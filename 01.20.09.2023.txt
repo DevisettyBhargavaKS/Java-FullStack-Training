@@ -1,1 +1,9 @@
-13
+first of all i introduce myself
+I reviewed some concepts of basic computer components such as CPU,RAM etc.....
+Starting with server and how developer will develop application process and communicate with server and how end user will rollout updates and how load balancer will work
+TCP and UDP which works faster and data loss happens which take more time
+Difference between git and github
+     1)git used to store our files and we can only access
+     2)github will be used by everyone
+CDN-Content Delivery Network
+     where informaton will retrive from server that near to us rather than to the main server
