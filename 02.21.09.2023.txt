@@ -1,2 +1,5 @@
-Today i learned about how to do a static website using HTML and CSS
-I designed a college website that shows what courses that college provide
+Leart about HTML Tags
+how CSS flex box will work
+flex direction 
+align iteams
+justify content
