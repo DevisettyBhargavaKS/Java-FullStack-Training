@@ -1,0 +1,7 @@
+Today i learned about how to do a static website using HTML and CSS
+I designed a college website that shows what courses that college provide
+Faced errors in CSS-flex and arranging iteams in a direction
+leared CSS-selectors
+1)class selector
+2)id selector
+
