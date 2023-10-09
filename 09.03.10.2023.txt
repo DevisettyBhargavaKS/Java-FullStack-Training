@@ -1,0 +1,10 @@
+Built an e-commerce website using html,css,bootstrap and javascript
+pages:
+sign in
+sign up
+logout
+admin home page
+user home page
+add product
+cart
+orders
