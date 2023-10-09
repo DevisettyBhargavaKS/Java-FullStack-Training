@@ -1,0 +1,6 @@
+I have completed some major steps in E-commerce website
+     -Add products in home page
+     -Add products in admin page
+     -Add and load products in cart page
+     -edit and delete button functionality in admin page
+overall, learned about the products in home page and how to add products in admin page and how to delete and edit products
