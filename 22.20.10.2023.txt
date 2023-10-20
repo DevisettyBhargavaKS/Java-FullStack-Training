@@ -1,0 +1,15 @@
+--JAVA CONCEPTS----
+-Given out of range of integer value it shows the error out of range.
+-we can enter only one character in char
+-And float end with 'f' otherwise it becomes error.
+-Double becomes error if it not ends with 'd'
+-In array we can declare the syntax
+         int a[]={};
+-in array we can print int,float,double,string,boolean it shows the output its address but char prints its array output
+-in array we can create the array syntax
+      int a1[]=new int[20];
+     size can be entered into the new int only.
+-Declare the arrays in index only like a[0],a[1]
+-in and operator both the conditions is satisifed only the condition is executed or the other condition is executed.
+-In and operator if first condition is false no need to check second condition.
+-In or opeartor any one condition is satisifed is executed the condition.
