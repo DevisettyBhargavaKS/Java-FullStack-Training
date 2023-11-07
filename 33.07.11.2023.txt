@@ -1,0 +1,31 @@
+Today's Covered Topics
+-----#######-------- 
+1.Tightly Coupling,Loosly Coupling
+2.Inversion of Concepts
+3.Dependency Injection --->1.Constructor Injection
+                       --->2.SetterMethod
+4.Component
+5.AutoWired
+6.Primary
+7.Qualifier
+8.CDI ---->1.@NAMED
+      ---->2.@Inject
+9.Configuration
+10.ComponentScan
+11.Scope --->1.Singleton
+         --->2.prototype
+12.Life cycle of bean--->1.PostConstruct
+                    --->2.preDestroy
+13.Annotations application context
+14.@RestaController--->1.@RequestbOdy
+                   --->2.@pathvariable
+                   --->3.@getmpping
+                   --->4.@postmapping
+                   --->5.@Deletemapping
+                   --->6.@put Mapping
+15.AutoWired by name
+16.data.sql 
+17.Jdbc Template
+18.applications.properties
+has context menu
+Compose
