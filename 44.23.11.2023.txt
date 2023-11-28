@@ -1,0 +1,17 @@
+Furniture and homedecor marketplace
+--------------------------------------
+    *Continued with the integration of back end and 
+        - Integrated all the POST methods.
+            -> POST category 
+            -> Register 
+            -> POST vendor 
+          
+
+        - Integrated all the PUT methods.
+            -> PUT category 
+            -> PUT vendor 
+
+        - Integrated all the DELETE methods.
+            -> DELETE category 
+            -> DELETE product 
+            
