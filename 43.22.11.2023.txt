@@ -1,0 +1,12 @@
+Furniture and homedecor marketplace
+--------------------------------------
+    *Continued with the integration of back end and front end.
+        - Integrated all the GET Methods 
+            -> GET vendors 
+            -> GET categories  
+            -> GET products 
+            -> GET vendors 
+            -> GET users
+
+        - Integrated Post method 
+            -> POST product 
