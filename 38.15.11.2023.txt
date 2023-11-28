@@ -1,0 +1,14 @@
+Furniture and Home decor markatplace
+--------------------------------------
+    *Continued with the backend part of the project 
+        -> Controller
+            - Admin category Controller
+            -Admin user Controller
+            -Admin product Controller
+            -vendor
+            
+        -> Add HttpRequests for the following in the controller
+                1. Login with validation
+                2. Register with validation
+                3. Add/Edit/Delete/Get Category 
+                4. Add/Edit/Delete/Get products
