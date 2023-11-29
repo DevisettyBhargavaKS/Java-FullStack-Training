@@ -1,0 +1,13 @@
+Furniture and homedecor marketplace
+--------------------------------------
+    *Continued with the back end and front end integration.
+        - PUT profile.
+        - UI changes.
+            -> Changed the nav bar for user and admin.
+        - Added user details and their products.
+
+
+    *Yet to complete 
+        - Front end user validation for navigation.
+        - Integrate the user details and products in the admin page.
+    
