@@ -1,0 +1,5 @@
+Furniture and homedecor marketplace
+--------------------------------------
+completed all changes in backend and front end 
+started designing some styles
+fixed some errors

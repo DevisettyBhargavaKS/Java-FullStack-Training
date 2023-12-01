@@ -1,0 +1,4 @@
+covered remainng topics 
+1--structures
+2--lazyloading
+3--custom validation
